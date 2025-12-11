@@ -288,7 +288,7 @@
                 <div class="form-text">Select the book to issue</div>
             </div>
 
-            <!-- RETURN DATE -->
+           
             <div class="mb-3">
                 <label class="form-label">
                     <i class="fas fa-calendar-check"></i>
