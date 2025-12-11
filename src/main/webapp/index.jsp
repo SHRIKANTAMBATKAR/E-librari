@@ -358,7 +358,7 @@
             </a>
         </div>
 
-        <!-- Footer -->
+        
         <div class="footer-text">
             <p>Made with <i class="fas fa-heart"></i> for Learning</p>
         </div>
