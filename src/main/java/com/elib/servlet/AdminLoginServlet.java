@@ -39,7 +39,6 @@ public class AdminLoginServlet extends HttpServlet {
         }
 
         // invalid
-
         resp.sendRedirect("OpenAdminLogin?error=Invalid+credentials");
     }
 }
