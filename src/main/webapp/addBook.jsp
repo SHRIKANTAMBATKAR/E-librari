@@ -2,7 +2,7 @@
 <%
     if(session.getAttribute("librarian") == null) {
         response.sendRedirect("librarianLogin.jsp");
-        return;
+       return;
     }
 %>
 <!DOCTYPE html>
