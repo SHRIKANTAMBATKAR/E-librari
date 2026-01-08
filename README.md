@@ -1,5 +1,4 @@
 # 📚 E-Library 
-
 An **E-Library Management System** built using **Java, JSP, Servlets, JDBC, and MySQL**.  
 The application follows the **MVC (Model–View–Controller)** architecture and implements **role-based authentication** for **Admin, Librarian, and Student** users.
 
